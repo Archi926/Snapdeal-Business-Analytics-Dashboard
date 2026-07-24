@@ -94,7 +94,7 @@ Promotional effectiveness should be evaluated using baseline discount comparison
 The original source code and dataset structure were not sufficient to complete all the required business analytics tasks. Therefore, additional DAX measures, calculated columns, custom KPIs, and data transformations were developed to extend the existing implementation and satisfy all project requirements. These enhancements enabled advanced business analysis, dynamic calculations, and interactive reporting beyond the capabilities of the original source code.
 
 ## Dashboard Preview
-Dashboard screenshots are available in the **Dashboard_Screenshots** folder.
+Dashboard screenshots are available.
 
 # Author
 
